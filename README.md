@@ -47,7 +47,7 @@ The dashboard analyzes Superstore sales data to uncover insights related to **sa
 ---
 
 ## 🖼 Dashboard Preview
-![Power BI Dashboard](screenshots/Dashboard.png)
+![Power BI Dashboard](Dashboard.png)
 
 ---
 
